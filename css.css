@@ -7,7 +7,6 @@ body {
     font-size: 15px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
 .header {
     display: flex;
     justify-content: space-between;
@@ -64,7 +63,6 @@ body {
 .img img {
     width: 100%;
     height: 100%;
-
 }
 
 .img {
@@ -75,6 +73,9 @@ body {
 #im {
     height: 250px;
 }
+.img :hover{
+    width: 400px;
+} 
 
 p button {
     padding: 10px 190px;
@@ -158,3 +159,4 @@ a:hover {
     background-color: rgba(19, 14, 14, 0.756);
     margin-right: 8px;
 }
+.pro
